@@ -1,0 +1,263 @@
+/*
+Theme Name: Edumax
+Theme URI: http://demo.themeum.com/wordpress/edumax
+Author: Themeum
+Author URI: http://themeum.com/
+Description: Exclusive eLearning solution on WordPress for educators, coaching centers & academic institutes Ever thought of creating an online learning platform? Get Edumax and build a complete eLearning website today. It’s an all-in-one WordPress LMS theme to create courses and sell them online. Edumax is perfectly built for individual educators, schools, training institutes, coaching centers, and any other type of academies.
+Version: 2.0.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: right-sidebar, two-columns
+Text Domain: edumax
+*/
+
+/* -------------------------------------- *
+*           Default WP CSS                *
+* --------------------------------------- */
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+a{
+    text-decoration: none !important;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+a:focus {
+    outline: 0;
+    outline-offset: 0;
+}
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+}
+.gallery-caption {
+    font-size: 12px;
+}
+
+.portfolio-items .portfolio-layout2 {
+    transition: all 0.4s;
+}
+
+
+/* -------------------------------------- *
+*           Wordpress Core                *
+* --------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    text-align: center;
+}
+.wp-caption.alignnone {
+    margin: 0;
+    padding: 0;
+}
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    white-space: nowrap;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+}
+.post-meta-info-list-in{
+    margin: 40px 0 20px;
+}
+.novisible{
+    visibility: hidden;
+}
+.tutor-login-title {
+    max-width: 450px;
+    margin: 0 auto 15px;
+}
+.edumax-course-pricing .tutor-course-loop-price .tutor-loop-cart-btn-wrap a,
+.menu-footer-menu a,
+.single_add_to_cart_button, a.tutor-button, .tutor-button, a.tutor-btn, .tutor-btn,
+.login-modal-footer-inner a,
+.edumax-lostpass a{
+    transition: 400ms;
+}
+.edumax-course-pricing .tutor-course-loop-price .tutor-loop-cart-btn-wrap a:hover,
+.edumax-lostpass a:hover{
+    color: #006fa0;
+}
+.bottom-widget .widget_media_image img {
+    width: 150px;
+}
+a,
+.widget ul li, .widget ul li a{
+    transition: 400ms;
+}
+a:hover {
+    color: #006fa0;
+}
+.tutor-dashboard-header-display-name h4 {
+    margin-bottom: 8px;
+}
+@media (max-width: 768px) {
+    .tutor-course-header-h1 {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .subtitle-cover .page-leading {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .edumax-pagination {
+        padding: 20px 0px 40px;
+    }
+}
+
+/****** Ajax Search Result*****/
+.search_form_shortcode .fa-spinner{
+    position: absolute;
+    top: 12px;
+    left: 10px;
+    z-index: 9;
+}
+.wppb-addon .search_form_shortcode .fa-spinner{
+    top: 17px;
+    left: 15px;
+}
+.edumax-course-search-results {
+    position: absolute;
+    z-index: 99;
+    top: 55px;
+    width: 100%;
+}
+
+ul.edumax-courses-search.results-list {
+    margin: 0;
+    padding: 0;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    padding: 15px 30px;
+    -webkit-transition: .3s;
+    transition: .3s;
+}
+ul.edumax-courses-search.results-list li {
+    display: block;
+    padding: 14px 0;
+    font-size: 15px;
+    color: var(--edumax-heading-color);
+    border-bottom: 1px solid #e0e3ee;
+}
+ul.edumax-courses-search.results-list li:last-child {
+    border-bottom: none;
+}
+
+.edumax-courses-search.results-list li a {
+    color: var(--edumax-heading-color);
+    font-weight: 500;
+    text-transform: lowercase;
+    transition: .3s;
+}
+.edumax-courses-search.results-list li a:hover {
+    color: var(--edumax-major-color);
+}
+.entry-content .alignfull:first-child {
+    z-index: 1;
+}
+
+.tutor-dashboard-menu-divider-header {
+    color: #656565;
+    padding: 5px 20px;
+}

@@ -1,0 +1,28 @@
+**************************************
+**************************************
+    License of WP Page Builder Pro 
+    Copyright (C) Themeum.com
+    https://themeum.com
+    All Rights Reserved.
+**************************************
+**************************************
+
+You come under WP Page Builder Pro license terms upon purchasing it from Themeum site. This license determines our liability and your right to use this plugin (Pro version). The license applies to all the current WP Page Builder Pro version(s) as well as to any new Pro version that may come in future. 
+
+**** Distribution **** 
+Under no circumstances, you are ever allowed to sell/distribute WP Page Builder no matter the modification you made to the source code. Any anomalies, in this regard, may lead to cancellation of your license. 
+
+**** Plugin Update ****
+WP Page Builder Pro is updated from time to time. However, the updates do not follow any predetermined schedules. We (Themeum) release each update whenever we feel necessary. But we are not bound to release any update that the users force us to. However, any new idea regarding future updates is carefully considered and always welcome. 
+
+**** Plugin Support ****
+We try to give support for queries our users post on the support forum. The support system follows our weekly working days and other support policies. Considering a bulk number of support queries we receive, we deserve the right to prioritize support queries while we reply.   
+
+**** Source Code Copy ****
+You are not permitted to copy the source code and make anything else out of it. But any decent modification to source code for your personal uses is always allowed. When updated to a newer version, the plugin will get rid of all source code modifications and we are not liable to that either. 
+
+**** Warranty of Source Code ****
+The source code is provided without any warranty for its quality. Themeum shall never be liable for any damage or flaw in the given source code.
+
+**** Third Party Scripts Support ****
+The plugin includes third party supports (JS scripts or others). We are not liable for any unwanted issues that may be occured because of them.

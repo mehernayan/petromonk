@@ -1,0 +1,37 @@
+# Change Log of WP Page Builder Pro 
+
+#### 1.0.0 - 2018-09-20
+* Initial version release
+
+#### 1.0.1 - 2018-10-11
+* Shortcode addon added
+* Google Map addon added
+
+#### 1.0.2 - 2018-10-31
+* New table addon
+* New price list addon
+
+#### 1.0.3 - 2018-11-14
+  + Animated Heading addon pro
+  + Instagram Addon pro
+  + Hosting Layout Pro
+
+#### 1.0.4 - 2018-11-29
+  + Advanced List addon pro
+  ^ Update pricing list
+  ^ Update table addon
+
+#### 1.0.5 - 2018-12-14
+  + ADivider addon pro
+
+#### 1.0.5 - 2018-12-14
+  + Shortcode addon bug fix pro
+
+#### 1.0.6 - 2019-04-23
+  + Known bug fix pro
+
+#### 1.0.7 - 2019-09-05
+  + Timeline addon added
+
+#### 1.0.8 - 2019-09-18
+  + fontawesome 5 upgrade

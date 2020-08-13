@@ -1,0 +1,115 @@
+.redux-container #redux-header .display_header{
+    float: none;
+    text-align: left;
+}
+.redux-container #redux-header .display_header .redux-dev-mode-notice-container{
+    position: static;
+    float: right;
+}
+.redux-container #redux-header .display_header span.redux-dev-mode-notice{
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-weight: 400;
+}
+.wbc_importer .theme-browser .theme .theme-actions{
+    right: 31%;
+    box-shadow: none !important;
+    background: none !important;
+    padding: 0;
+}
+.wbc_importer .theme-browser .theme .theme-name{
+    text-align: center;
+    position: relative;
+}
+.redux-group-tab h2{
+    margin-bottom: 0;
+    font-size: 22px;
+}
+.wbc_importer .theme-browser .theme .theme-actions .button-primary, .wbc_importer .importer-button{
+    padding: 5px 20px;
+    background: #fff;
+    border-color: #fff;
+    color: #000;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: all .5s;
+    line-height: 1.5;
+}
+.wbc_importer .theme-browser .theme .theme-actions .button-primary:hover{
+    background: #000;
+    border-color: #000;
+    color: #fff;
+}
+.wbc_importer .theme-browser .theme.active .theme-name{
+    padding: 15px;
+}
+.wbc_importer .theme-browser .theme.active .theme-actions{
+    padding: 0;
+    right: 19%;
+}
+.wbc_importer .theme-browser .themes .wrap-importer:nth-child(1)::after{
+    position: absolute;
+    content: '';
+    left: 20px;
+    bottom: 20px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    z-index: 999;
+    background: url(../img/pagebuilder-logo.png);
+    background-size: 35px;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.wbc_importer .theme-browser .themes .wrap-importer{
+    position: relative;
+    border: 0;
+    box-shadow: 0 1px 20px -5px rgba(0,0,0,.1);
+}
+.wbc_importer .theme-browser .themes .wrap-importer:nth-child(2)::after{
+    position: absolute;
+    content: '';
+    left: 20px;
+    bottom: 20px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    z-index: 999;
+    background: url(../img/qubely-logo.png);
+    background-size: 35px;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#redux-footer, .redux-main #redux-sticky{
+    display: none;
+}
+.redux-container .redux-main{
+    padding: 10px 40px;
+    margin-left: 250px;
+}
+.wbc_importer .theme-browser .theme{
+    box-shadow: 0 0px 20px -4px rgba(0,0,0,.1);
+    border: 0;
+}
+.wbc_importer .theme-browser .theme {
+    width: 38.6%;
+}
+.redux-container #redux-header{
+    border-bottom: 0;
+}
+.redux-sidebar{
+    background: #fff;
+    width: 250px;
+}
+.redux-sidebar .redux-group-menu li.active a{
+    width: 100%;
+    border-left: 4px solid #0073aa;
+}
+.redux-sidebar .redux-group-menu li a{
+    padding: 20px 10px;
+}

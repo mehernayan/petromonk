@@ -1,0 +1,1335 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Page Builder Pro\n"
+"POT-Creation-Date: 2019-09-04 16:12+0600\n"
+"PO-Revision-Date: 2019-09-04 16:12+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-pagebuilder-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: addons/advanced_list/advanced_list.php:31
+msgid "Advanced List"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:37
+msgid "Save listing agreement to client"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:46
+msgid "Drap and drop page builder"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:55
+msgid "Flexible column layout building"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:66
+msgid "List Style"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:68
+#: addons/advanced_list/advanced_list.php:75
+#: addons/price_list/price_list.php:123 addons/price_list/price_list.php:131
+msgid "Number"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:69
+#: addons/advanced_list/advanced_list.php:80 addons/divider/divider.php:81
+#: addons/divider/divider.php:88 addons/divider/divider.php:211
+#: addons/price_list/price_list.php:124 addons/price_list/price_list.php:149
+#: addons/timeline/timeline.php:338
+msgid "Icon"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:70
+#: addons/advanced_list/advanced_list.php:90 addons/divider/divider.php:80
+#: addons/divider/divider.php:94 addons/divider/divider.php:210
+#: addons/price_list/price_list.php:122 addons/price_list/price_list.php:137
+msgid "Image"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:85
+msgid "Icon Hover"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:95
+msgid "Image Hover"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:100 addons/divider/divider.php:46
+#: addons/table/table.php:59
+msgid "Title"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:104
+#: addons/animated_heading/animated_heading.php:60
+#: addons/divider/divider.php:53
+msgid "Title Tag"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:120 addons/divider/divider.php:70
+msgid "Link"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:127
+msgid "Icon/Image Hover Animation"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:129 addons/divider/divider.php:79
+#: addons/divider/divider.php:209 addons/divider/divider.php:415
+#: addons/divider/divider.php:532
+msgid "None"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:130
+msgid "Slide Top"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:131
+msgid "Slide Left"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:132
+msgid "Slide Right"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:133
+msgid "Slide Bottom"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:134
+msgid "Fade in"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:140
+msgid "Icon/Image Position"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:142
+#: addons/animated_heading/animated_heading.php:186
+#: addons/price_list/price_list.php:112
+msgid "Left"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:143
+#: addons/animated_heading/animated_heading.php:188
+#: addons/price_list/price_list.php:113
+msgid "Right"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:151
+msgid "Number color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:159
+msgid "Number hover color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:166
+msgid "Number background color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:173
+msgid "Number background hover color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:180
+#: addons/advanced_list/advanced_list.php:644
+#: addons/price_list/price_list.php:791 addons/price_list/price_list.php:970
+msgid "Typography"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:196
+msgid "Number Width"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:222
+msgid "Number Height"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:248
+msgid "Number Line Height"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:298
+msgid "Number border radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:307
+msgid "Number hover border radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:316
+msgid "Number Padding"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:327
+msgid "Icon color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:335
+msgid "Icon hover color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:342
+msgid "Icon background color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:349
+msgid "icon background hover color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:356
+msgid "Icon Width"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:382
+msgid "Icon Height"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:408 addons/divider/divider.php:604
+#: addons/instagram/instagram.php:289 addons/price_list/price_list.php:461
+#: addons/timeline/timeline.php:353
+msgid "Icon Size"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:434
+msgid "Icon Line Height"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:484
+msgid "Icon border radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:493
+msgid "Icon hover border radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:502
+msgid "Icon Padding"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:513
+msgid "Image Width"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:544
+msgid "Image Height"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:599
+msgid "Image border radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:608
+msgid "Image hover border radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:617
+msgid "Image Padding"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:628 addons/divider/divider.php:312
+msgid "Title Color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:636
+msgid "Title Hover Color"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:660
+msgid "Title margin"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:676
+#: addons/price_list/price_list.php:1032
+msgid "Wrap background"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:684
+msgid "Wrap hover background"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:692 addons/divider/divider.php:82
+#: addons/divider/divider.php:212 addons/divider/divider.php:786
+#: addons/divider/divider.php:1178 addons/divider/divider.php:1319
+#: addons/price_list/price_list.php:589 addons/price_list/price_list.php:719
+#: addons/price_list/price_list.php:894 addons/price_list/price_list.php:1049
+#: addons/timeline/timeline.php:431
+msgid "Border"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:704
+#: addons/price_list/price_list.php:1061
+msgid "Border Hover"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:716
+#: addons/price_list/price_list.php:1002 addons/price_list/price_list.php:1040
+msgid "Border Radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:725
+msgid "Hover Border Radius"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:734
+#: addons/price_list/price_list.php:613 addons/price_list/price_list.php:743
+#: addons/price_list/price_list.php:918 addons/price_list/price_list.php:1073
+msgid "Box shadow"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:745
+#: addons/price_list/price_list.php:624 addons/price_list/price_list.php:754
+#: addons/price_list/price_list.php:929 addons/price_list/price_list.php:1084
+msgid "Hover box shadow"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:756
+msgid "Wrapper Padding"
+msgstr ""
+
+#: addons/advanced_list/advanced_list.php:765
+msgid "Wrapper Margin"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:51
+msgid "Choose Animation Style"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:53
+msgid "Text Animation"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:54
+msgid "Highlighted Animation"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:76
+msgid "Animated/Highlighted Before Text"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:81
+msgid "Highlighted Text"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:87
+msgid "Choose Highlighting Shape"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:89
+msgid "Background Fill"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:90
+msgid "Circle"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:91
+msgid "Cross(X)"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:92
+msgid "Diagonal"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:93
+msgid "Strikethrough"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:94
+msgid "Rectangle"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:95
+msgid "Top Bottom Line"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:96
+msgid "Underline"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:97
+#: addons/animated_heading/animated_heading.php:117
+msgid "Dubble Underline"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:98
+msgid "Scribble Underline"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:99
+#: addons/animated_heading/animated_heading.php:119
+msgid "Sharpe Zigzag Underline"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:100
+msgid "Wave"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:107
+msgid "Choose text animation type"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:109
+msgid "Background Blinds"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:110
+msgid "Clip"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:111
+msgid "Typing"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:112
+msgid "Flip"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:113
+msgid "Fade In"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:114
+msgid "Loading Bar"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:115
+msgid "Scale"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:116
+msgid "Swirl"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:118
+msgid "Push"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:120
+msgid "Twist"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:128
+msgid "Highlighted color"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:135
+msgid "Shape Width"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:161
+msgid "Shape Round"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:168
+#: addons/shortcode/shortcode.php:26
+msgid "Shortcode"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:169
+msgid ""
+"headline \r\n"
+"              header \r\n"
+"              heading"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:177
+msgid "Animated/Highlighted After Text"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:183
+msgid "Content alignment"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:187
+msgid "Center"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:196
+#: addons/animated_heading/animated_heading.php:220
+#: addons/animated_heading/animated_heading.php:229
+msgid "Heading color"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:203
+msgid "Heading Typography"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:237
+msgid "Highlighted Typography"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:253
+msgid "Loading Background"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:261
+#: addons/divider/divider.php:339 addons/instagram/instagram.php:243
+#: addons/instagram/instagram.php:315 addons/price_list/price_list.php:200
+#: addons/price_list/price_list.php:253 addons/price_list/price_list.php:405
+#: addons/price_list/price_list.php:445 addons/price_list/price_list.php:650
+#: addons/price_list/price_list.php:774 addons/price_list/price_list.php:954
+#: addons/price_list/price_list.php:1095
+msgid "Margin"
+msgstr ""
+
+#: addons/animated_heading/animated_heading.php:275
+#: addons/divider/divider.php:353 addons/instagram/instagram.php:518
+#: addons/price_list/price_list.php:214 addons/price_list/price_list.php:364
+#: addons/price_list/price_list.php:1016 addons/price_list/price_list.php:1109
+#: addons/table/table.php:214 addons/table/table.php:310
+msgid "Padding"
+msgstr ""
+
+#: addons/divider/divider.php:77 addons/price_list/price_list.php:120
+msgid "Media Type"
+msgstr ""
+
+#: addons/divider/divider.php:102 addons/divider/divider.php:137
+#: addons/divider/divider.php:172
+msgid "Custom Width"
+msgstr ""
+
+#: addons/divider/divider.php:207
+msgid "Media Type 2"
+msgstr ""
+
+#: addons/divider/divider.php:219
+msgid "Icon 2"
+msgstr ""
+
+#: addons/divider/divider.php:225
+msgid "Image 2"
+msgstr ""
+
+#: addons/divider/divider.php:233 addons/divider/divider.php:268
+msgid "Border2 Custom Width"
+msgstr ""
+
+#: addons/divider/divider.php:302
+msgid "Alignment"
+msgstr ""
+
+#: addons/divider/divider.php:318 addons/price_list/price_list.php:177
+#: addons/table/table.php:141 addons/table/table.php:237
+msgid "Title hover color"
+msgstr ""
+
+#: addons/divider/divider.php:324 addons/price_list/price_list.php:184
+#: addons/table/table.php:169 addons/table/table.php:265
+#: addons/timeline/timeline.php:169
+msgid "Title Typography"
+msgstr ""
+
+#: addons/divider/divider.php:369
+msgid "Border Height"
+msgstr ""
+
+#: addons/divider/divider.php:403
+msgid "Border Color"
+msgstr ""
+
+#: addons/divider/divider.php:413
+msgid "Border Style"
+msgstr ""
+
+#: addons/divider/divider.php:416 addons/divider/divider.php:533
+#: addons/price_list/price_list.php:331
+msgid "Solid"
+msgstr ""
+
+#: addons/divider/divider.php:417 addons/divider/divider.php:534
+#: addons/price_list/price_list.php:326
+msgid "Dotted"
+msgstr ""
+
+#: addons/divider/divider.php:418 addons/divider/divider.php:535
+#: addons/price_list/price_list.php:327
+msgid "Dashed"
+msgstr ""
+
+#: addons/divider/divider.php:419 addons/divider/divider.php:536
+msgid "Doubled"
+msgstr ""
+
+#: addons/divider/divider.php:430 addons/divider/divider.php:546
+msgid "Border position vertically"
+msgstr ""
+
+#: addons/divider/divider.php:459 addons/divider/divider.php:574
+msgid "Border position Horizontal"
+msgstr ""
+
+#: addons/divider/divider.php:488
+msgid "Border Height 2"
+msgstr ""
+
+#: addons/divider/divider.php:520
+msgid "Border Color 2"
+msgstr ""
+
+#: addons/divider/divider.php:530
+msgid "Border Style 2"
+msgstr ""
+
+#: addons/divider/divider.php:635 addons/price_list/price_list.php:492
+msgid "Line Height"
+msgstr ""
+
+#: addons/divider/divider.php:645 addons/divider/divider.php:1058
+#: addons/divider/divider.php:1201 addons/price_list/price_list.php:502
+#: addons/price_list/price_list.php:666 addons/price_list/price_list.php:807
+msgid "Width"
+msgstr ""
+
+#: addons/divider/divider.php:671 addons/divider/divider.php:1089
+#: addons/divider/divider.php:1233 addons/price_list/price_list.php:528
+#: addons/price_list/price_list.php:692 addons/price_list/price_list.php:833
+msgid "Height"
+msgstr ""
+
+#: addons/divider/divider.php:697
+msgid "Icon position vertically"
+msgstr ""
+
+#: addons/divider/divider.php:724
+msgid "Icon position horizontal"
+msgstr ""
+
+#: addons/divider/divider.php:751 addons/price_list/price_list.php:554
+msgid "Color"
+msgstr ""
+
+#: addons/divider/divider.php:759 addons/price_list/price_list.php:562
+#: addons/price_list/price_list.php:867
+msgid "Hover Color"
+msgstr ""
+
+#: addons/divider/divider.php:768 addons/divider/divider.php:996
+#: addons/price_list/price_list.php:571
+msgid "background"
+msgstr ""
+
+#: addons/divider/divider.php:777 addons/price_list/price_list.php:580
+msgid "hover background"
+msgstr ""
+
+#: addons/divider/divider.php:798 addons/price_list/price_list.php:601
+#: addons/price_list/price_list.php:731 addons/price_list/price_list.php:906
+msgid "hover color"
+msgstr ""
+
+#: addons/divider/divider.php:811 addons/divider/divider.php:1190
+#: addons/divider/divider.php:1332 addons/price_list/price_list.php:636
+#: addons/price_list/price_list.php:765 addons/price_list/price_list.php:940
+msgid "Border radius"
+msgstr ""
+
+#: addons/divider/divider.php:827
+msgid "Icon2 Size"
+msgstr ""
+
+#: addons/divider/divider.php:859
+msgid "Icon2 Line Height"
+msgstr ""
+
+#: addons/divider/divider.php:870
+msgid "Icon2 Width"
+msgstr ""
+
+#: addons/divider/divider.php:897
+msgid "Icon2 Height"
+msgstr ""
+
+#: addons/divider/divider.php:924
+msgid "Icon2 position vertically"
+msgstr ""
+
+#: addons/divider/divider.php:951
+msgid "Icon2 position horizontal"
+msgstr ""
+
+#: addons/divider/divider.php:978
+msgid "Icon2 Color"
+msgstr ""
+
+#: addons/divider/divider.php:987
+msgid "Icon2 Hover Color"
+msgstr ""
+
+#: addons/divider/divider.php:1005
+msgid "Icon2 hover background"
+msgstr ""
+
+#: addons/divider/divider.php:1014
+msgid "Icon2 Border"
+msgstr ""
+
+#: addons/divider/divider.php:1027
+msgid "Icon 2 Border hover color"
+msgstr ""
+
+#: addons/divider/divider.php:1040
+msgid "Icon2 Border radius"
+msgstr ""
+
+#: addons/divider/divider.php:1120 addons/divider/divider.php:1265
+msgid "Image position vertically"
+msgstr ""
+
+#: addons/divider/divider.php:1149 addons/divider/divider.php:1292
+msgid "Image position horizontal"
+msgstr ""
+
+#: addons/gmap/gmap.php:28
+msgid "Address"
+msgstr ""
+
+#: addons/gmap/gmap.php:35
+msgid "Map Zoom"
+msgstr ""
+
+#: addons/gmap/gmap.php:45
+msgid "Map Height"
+msgstr ""
+
+#: addons/gmap/gmap.php:74
+msgid "Map Width"
+msgstr ""
+
+#: addons/gmap/gmap.php:104
+msgid "CSS filter"
+msgstr ""
+
+#: addons/instagram/instagram.php:25
+msgid "Get images by"
+msgstr ""
+
+#: addons/instagram/instagram.php:27
+msgid "Username"
+msgstr ""
+
+#: addons/instagram/instagram.php:28 addons/instagram/instagram.php:40
+msgid "Hashtag"
+msgstr ""
+
+#: addons/instagram/instagram.php:34
+msgid "User ID"
+msgstr ""
+
+#: addons/instagram/instagram.php:45
+msgid "Access Token"
+msgstr ""
+
+#: addons/instagram/instagram.php:50
+msgid "Number of Items"
+msgstr ""
+
+#: addons/instagram/instagram.php:55
+msgid "Show Like"
+msgstr ""
+
+#: addons/instagram/instagram.php:60
+msgid "Show Comment"
+msgstr ""
+
+#: addons/instagram/instagram.php:65
+msgid "Show Text"
+msgstr ""
+
+#: addons/instagram/instagram.php:70
+msgid "Text Limit"
+msgstr ""
+
+#: addons/instagram/instagram.php:76
+msgid "Show full profile"
+msgstr ""
+
+#: addons/instagram/instagram.php:82
+msgid "Show profile image"
+msgstr ""
+
+#: addons/instagram/instagram.php:89
+msgid "Show user name"
+msgstr ""
+
+#: addons/instagram/instagram.php:96
+msgid "Show full name"
+msgstr ""
+
+#: addons/instagram/instagram.php:105
+msgid "Show Follow Us"
+msgstr ""
+
+#: addons/instagram/instagram.php:111
+msgid "Follow text"
+msgstr ""
+
+#: addons/instagram/instagram.php:119
+msgid "Layout Style"
+msgstr ""
+
+#: addons/instagram/instagram.php:121
+msgid "Default"
+msgstr ""
+
+#: addons/instagram/instagram.php:122
+msgid "Image Overlay"
+msgstr ""
+
+#: addons/instagram/instagram.php:128
+msgid "Column"
+msgstr ""
+
+#: addons/instagram/instagram.php:207
+msgid "Choose Image Size"
+msgstr ""
+
+#: addons/instagram/instagram.php:209
+msgid "Small Size"
+msgstr ""
+
+#: addons/instagram/instagram.php:210
+msgid "Medium Size"
+msgstr ""
+
+#: addons/instagram/instagram.php:211
+msgid "Large Size"
+msgstr ""
+
+#: addons/instagram/instagram.php:219
+msgid "Text Color"
+msgstr ""
+
+#: addons/instagram/instagram.php:227 addons/instagram/instagram.php:266
+msgid "Text typography"
+msgstr ""
+
+#: addons/instagram/instagram.php:259
+msgid "Like/comment text"
+msgstr ""
+
+#: addons/instagram/instagram.php:282
+msgid "Like/comment icon"
+msgstr ""
+
+#: addons/instagram/instagram.php:326
+msgid "Profile text color"
+msgstr ""
+
+#: addons/instagram/instagram.php:334
+msgid "Profile link color"
+msgstr ""
+
+#: addons/instagram/instagram.php:342
+msgid "Profile link hover color"
+msgstr ""
+
+#: addons/instagram/instagram.php:350
+msgid "Profile typography"
+msgstr ""
+
+#: addons/instagram/instagram.php:369
+msgid "Follow text color"
+msgstr ""
+
+#: addons/instagram/instagram.php:377
+msgid "Follow link color"
+msgstr ""
+
+#: addons/instagram/instagram.php:385
+msgid "Follow link hover color"
+msgstr ""
+
+#: addons/instagram/instagram.php:393
+msgid "Follow typography"
+msgstr ""
+
+#: addons/instagram/instagram.php:410
+msgid "Follow Background"
+msgstr ""
+
+#: addons/instagram/instagram.php:419 addons/instagram/instagram.php:451
+msgid "Vertial Position"
+msgstr ""
+
+#: addons/instagram/instagram.php:496
+msgid "Follow radius"
+msgstr ""
+
+#: addons/instagram/instagram.php:535
+msgid "Content Background Color"
+msgstr ""
+
+#: addons/instagram/instagram.php:543
+msgid "Overlay Background"
+msgstr ""
+
+#: addons/instagram/instagram.php:575
+msgid "Content radius"
+msgstr ""
+
+#: addons/instagram/instagram.php:584
+msgid "Content hover radius"
+msgstr ""
+
+#: addons/price_list/price_list.php:30
+msgid "Price List"
+msgstr ""
+
+#: addons/price_list/price_list.php:36
+msgid "Franks Gourmet Grille"
+msgstr ""
+
+#: addons/price_list/price_list.php:46
+msgid "Terky Special Grille"
+msgstr ""
+
+#: addons/price_list/price_list.php:56
+msgid "Vegetable and tomato salad"
+msgstr ""
+
+#: addons/price_list/price_list.php:68
+msgid "Pricing Position"
+msgstr ""
+
+#: addons/price_list/price_list.php:70
+msgid "Right of title"
+msgstr ""
+
+#: addons/price_list/price_list.php:71
+msgid "Left of title"
+msgstr ""
+
+#: addons/price_list/price_list.php:72
+msgid "Bottom of content"
+msgstr ""
+
+#: addons/price_list/price_list.php:79
+msgid "Item title"
+msgstr ""
+
+#: addons/price_list/price_list.php:84 addons/table/table.php:64
+msgid "Title URL"
+msgstr ""
+
+#: addons/price_list/price_list.php:89
+msgid "Content"
+msgstr ""
+
+#: addons/price_list/price_list.php:94
+msgid "Regular Price"
+msgstr ""
+
+#: addons/price_list/price_list.php:99
+msgid "Discount Price"
+msgstr ""
+
+#: addons/price_list/price_list.php:105
+msgid "Add image/icon/number"
+msgstr ""
+
+#: addons/price_list/price_list.php:110
+msgid "Media Position"
+msgstr ""
+
+#: addons/price_list/price_list.php:143
+msgid "Treding Batch text"
+msgstr ""
+
+#: addons/price_list/price_list.php:157
+msgid "Title Line"
+msgstr ""
+
+#: addons/price_list/price_list.php:162
+msgid "Content Alignment"
+msgstr ""
+
+#: addons/price_list/price_list.php:170 addons/table/table.php:134
+#: addons/table/table.php:230
+msgid "Title color"
+msgstr ""
+
+#: addons/price_list/price_list.php:230
+msgid "Content color"
+msgstr ""
+
+#: addons/price_list/price_list.php:237 addons/timeline/timeline.php:193
+msgid "Content Typography"
+msgstr ""
+
+#: addons/price_list/price_list.php:267 addons/timeline/timeline.php:288
+msgid "Content Padding"
+msgstr ""
+
+#: addons/price_list/price_list.php:281
+msgid "Content wrapper Padding"
+msgstr ""
+
+#: addons/price_list/price_list.php:297
+msgid "Line Border Height"
+msgstr ""
+
+#: addons/price_list/price_list.php:324
+msgid "Line Type"
+msgstr ""
+
+#: addons/price_list/price_list.php:328
+msgid "Groove"
+msgstr ""
+
+#: addons/price_list/price_list.php:329
+msgid "Double"
+msgstr ""
+
+#: addons/price_list/price_list.php:330
+msgid "Ridge"
+msgstr ""
+
+#: addons/price_list/price_list.php:349
+msgid "Line Margin"
+msgstr ""
+
+#: addons/price_list/price_list.php:381
+msgid "Pricing button color"
+msgstr ""
+
+#: addons/price_list/price_list.php:389
+msgid "Pricing Typography"
+msgstr ""
+
+#: addons/price_list/price_list.php:421
+msgid "Discount price color"
+msgstr ""
+
+#: addons/price_list/price_list.php:429
+msgid "Discount Price Typography"
+msgstr ""
+
+#: addons/price_list/price_list.php:876
+msgid "Background"
+msgstr ""
+
+#: addons/price_list/price_list.php:885
+msgid "Hover Background"
+msgstr ""
+
+#: addons/price_list/price_list.php:986
+msgid "Trending Color"
+msgstr ""
+
+#: addons/price_list/price_list.php:994
+msgid "Trending Background"
+msgstr ""
+
+#: addons/shortcode/shortcode.php:27
+msgid "Put here shortcode"
+msgstr ""
+
+#: addons/table/table.php:25
+msgid "Table Items"
+msgstr ""
+
+#: addons/table/table.php:53
+msgid "Column Text"
+msgstr ""
+
+#: addons/table/table.php:69
+msgid "Sub Title"
+msgstr ""
+
+#: addons/table/table.php:74
+msgid "Span"
+msgstr ""
+
+#: addons/table/table.php:79
+msgid "Column Span"
+msgstr ""
+
+#: addons/table/table.php:85
+msgid "Row Span"
+msgstr ""
+
+#: addons/table/table.php:91
+msgid "Custom Style"
+msgstr ""
+
+#: addons/table/table.php:96
+msgid "Custom color"
+msgstr ""
+
+#: addons/table/table.php:102
+msgid "Custom background"
+msgstr ""
+
+#: addons/table/table.php:108
+msgid "Custom hover background"
+msgstr ""
+
+#: addons/table/table.php:119
+msgid "Head Content Alignment"
+msgstr ""
+
+#: addons/table/table.php:125
+msgid "Body Content Alignment"
+msgstr ""
+
+#: addons/table/table.php:148 addons/table/table.php:244
+msgid "Sub title color"
+msgstr ""
+
+#: addons/table/table.php:155 addons/table/table.php:251
+msgid "Background color"
+msgstr ""
+
+#: addons/table/table.php:162 addons/table/table.php:258
+msgid "Background hover color"
+msgstr ""
+
+#: addons/table/table.php:185 addons/table/table.php:281
+msgid "Sub Title Typography"
+msgstr ""
+
+#: addons/table/table.php:201
+msgid "Head Border"
+msgstr ""
+
+#: addons/table/table.php:325
+msgid "Odd Background color"
+msgstr ""
+
+#: addons/table/table.php:333
+msgid "Even Background color"
+msgstr ""
+
+#: addons/timeline/timeline.php:27
+msgid "Orientation"
+msgstr ""
+
+#: addons/timeline/timeline.php:28
+msgid "Select Placeholder"
+msgstr ""
+
+#: addons/timeline/timeline.php:37
+msgid "Timeline"
+msgstr ""
+
+#: addons/timeline/timeline.php:60
+msgid "Enable Image"
+msgstr ""
+
+#: addons/timeline/timeline.php:66
+msgid "Media"
+msgstr ""
+
+#: addons/timeline/timeline.php:71
+msgid "Timeline title"
+msgstr ""
+
+#: addons/timeline/timeline.php:76
+msgid "Contents"
+msgstr ""
+
+#: addons/timeline/timeline.php:81
+msgid "Timeline Date"
+msgstr ""
+
+#: addons/timeline/timeline.php:92
+msgid "Image Control"
+msgstr ""
+
+#: addons/timeline/timeline.php:100
+msgid "Image Radius"
+msgstr ""
+
+#: addons/timeline/timeline.php:132
+msgid "Image Spacing"
+msgstr ""
+
+#: addons/timeline/timeline.php:211
+msgid "Enable Date/Time"
+msgstr ""
+
+#: addons/timeline/timeline.php:226
+msgid "Date Typography"
+msgstr ""
+
+#: addons/timeline/timeline.php:260
+msgid "Content Border"
+msgstr ""
+
+#: addons/timeline/timeline.php:274
+msgid "Content Radius"
+msgstr ""
+
+#: addons/timeline/timeline.php:302
+msgid "Content Boxshadow"
+msgstr ""
+
+#: addons/timeline/timeline.php:316
+msgid "Bar Width"
+msgstr ""
+
+#: addons/timeline/timeline.php:384
+msgid "Connector Size"
+msgstr ""
+
+#: addons/timeline/timeline.php:441
+msgid "Boxshadow"
+msgstr ""
+
+#: addons/timeline/timeline.php:454
+msgid "Radius"
+msgstr ""
+
+#: addons/timeline/timeline.php:472
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: addons/timeline/timeline.php:509
+msgid "Vertical Spacing"
+msgstr ""
+
+#: classes/WPPB_Updater.php:31
+msgid "License Page"
+msgstr ""
+
+#: classes/WPPB_Updater.php:127
+msgid "Home"
+msgstr ""
+
+#: classes/WPPB_Updater.php:128
+msgid "Themes"
+msgstr ""
+
+#: classes/WPPB_Updater.php:129
+msgid "Plugins"
+msgstr ""
+
+#: classes/WPPB_Updater.php:131
+msgid "Support"
+msgstr ""
+
+#: classes/WPPB_Updater.php:133
+msgid "Support Forum"
+msgstr ""
+
+#: classes/WPPB_Updater.php:134
+msgid "About us"
+msgstr ""
+
+#: classes/WPPB_Updater.php:135
+msgid "Documentation"
+msgstr ""
+
+#: classes/WPPB_Updater.php:136
+msgid "Contact Us"
+msgstr ""
+
+#: classes/WPPB_Updater.php:137
+msgid "FAQ"
+msgstr ""
+
+#: classes/WPPB_Updater.php:140
+msgid "Blog"
+msgstr ""
+
+#: classes/WPPB_Updater.php:151
+msgid "Your license is connected with"
+msgstr ""
+
+#: classes/WPPB_Updater.php:152
+msgid "Licensed To"
+msgstr ""
+
+#: classes/WPPB_Updater.php:156
+msgid "License Valid Until"
+msgstr ""
+
+#: classes/WPPB_Updater.php:166
+msgid "Your license is not connected"
+msgstr ""
+
+#: classes/WPPB_Updater.php:168
+msgid "Valid license required"
+msgstr ""
+
+#: classes/WPPB_Updater.php:172
+msgid "A valid license is required to unlock available features"
+msgstr ""
+
+#: classes/WPPB_Updater.php:183
+msgid "Power Up your Plugin"
+msgstr ""
+
+#: classes/WPPB_Updater.php:185
+msgid "Get License Key"
+msgstr ""
+
+#: classes/WPPB_Updater.php:188
+msgid ""
+"Please enter your license key. An active license key is needed for automatic "
+"plugin updates and"
+msgstr ""
+
+#: classes/WPPB_Updater.php:189
+msgid "support"
+msgstr ""
+
+#: classes/WPPB_Updater.php:193
+msgid "Enter License Key"
+msgstr ""
+
+#: classes/WPPB_Updater.php:194
+msgid "Already have your key? Enter it here"
+msgstr ""
+
+#: classes/WPPB_Updater.php:199
+msgid "Enter your license key here"
+msgstr ""
+
+#: classes/WPPB_Updater.php:200
+msgid "Connect with License key"
+msgstr ""
+
+#: classes/WPPB_Updater.php:320
+#, php-format
+msgid ""
+"There is an error with your License. Automatic update has been turn off, %s "
+"Please check %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Page Builder Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.themeum.com/product/wp-pagebuilder/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugins is a pro version of WP Page Builder regular version"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeum"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeum.com"
+msgstr ""

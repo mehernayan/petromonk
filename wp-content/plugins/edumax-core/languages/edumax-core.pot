@@ -1,0 +1,1254 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Edumax Core\n"
+"POT-Creation-Date: 2019-09-30 16:28+0600\n"
+"PO-Revision-Date: 2019-09-30 16:28+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-WPHeader: edumax-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: customizer/controls/export.php:18
+msgid "Export"
+msgstr ""
+
+#: customizer/controls/import.php:19
+msgid "Import"
+msgstr ""
+
+#: customizer/customizer-config.php:6
+msgid "Edumax Theme Options"
+msgstr ""
+
+#: customizer/customizer-config.php:12 customizer/customizer-config.php:13
+msgid "Header Settings"
+msgstr ""
+
+#: customizer/customizer-config.php:18
+msgid "Header background Color"
+msgstr ""
+
+#: customizer/customizer-config.php:25
+msgid "Header Top Padding"
+msgstr ""
+
+#: customizer/customizer-config.php:32
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: customizer/customizer-config.php:39
+msgid "Header Bottom Margin"
+msgstr ""
+
+#: customizer/customizer-config.php:46
+msgid "Sticky Header"
+msgstr ""
+
+#: customizer/customizer-config.php:53
+msgid "Sticky background Color"
+msgstr ""
+
+#: customizer/customizer-config.php:60
+msgid "Header Transparent"
+msgstr ""
+
+#: customizer/customizer-config.php:68
+msgid "Header Category Menu"
+msgstr ""
+
+#: customizer/customizer-config.php:75
+msgid "Category Menu Label Text"
+msgstr ""
+
+#: customizer/customizer-config.php:82
+msgid "Header Login/Signup Button"
+msgstr ""
+
+#: customizer/customizer-config.php:89
+msgid "Header login button text"
+msgstr ""
+
+#: customizer/customizer-config.php:96
+msgid "Header signup button text"
+msgstr ""
+
+#: customizer/customizer-config.php:103
+msgid "Enable Header Shopping Cart"
+msgstr ""
+
+#: customizer/customizer-config.php:115
+msgid "Course Settings"
+msgstr ""
+
+#: customizer/customizer-config.php:116
+msgid "You can customize your course archive page from here."
+msgstr ""
+
+#: customizer/customizer-config.php:121
+msgid "Archive Sidebar filter"
+msgstr ""
+
+#: customizer/customizer-config.php:128
+msgid "Sidebar Position"
+msgstr ""
+
+#: customizer/customizer-config.php:139
+msgid "Enable Course Sorting Bar"
+msgstr ""
+
+#: customizer/customizer-config.php:146
+msgid "Archive Course Per Page"
+msgstr ""
+
+#: customizer/customizer-config.php:153
+msgid "Archive Course Pagination"
+msgstr ""
+
+#: customizer/customizer-config.php:160
+msgid "Archive Course Column Count"
+msgstr ""
+
+#: customizer/customizer-config.php:179 customizer/customizer-config.php:180
+msgid "Social login"
+msgstr ""
+
+#: customizer/customizer-config.php:186
+msgid "Enable Social Login"
+msgstr ""
+
+#: customizer/customizer-config.php:193
+msgid "Google Login Client ID* (Leave empty to disable), "
+msgstr ""
+
+#: customizer/customizer-config.php:200
+msgid "Facebook login App ID* (Leave empty to disable), "
+msgstr ""
+
+#: customizer/customizer-config.php:207
+msgid "Twitter Login Consumer Key* (Leave empty to disable), "
+msgstr ""
+
+#: customizer/customizer-config.php:214
+msgid "Twitter Login Consumer Secret* "
+msgstr ""
+
+#: customizer/customizer-config.php:221
+msgid "Twitter Login auth redirect URL* "
+msgstr ""
+
+#: customizer/customizer-config.php:232 customizer/customizer-config.php:233
+msgid "All Logo"
+msgstr ""
+
+#: customizer/customizer-config.php:239
+msgid "Upload Logo"
+msgstr ""
+
+#: customizer/customizer-config.php:246
+msgid "Select Logo Style"
+msgstr ""
+
+#: customizer/customizer-config.php:257
+msgid "Logo Width (value 0 for auto width)"
+msgstr ""
+
+#: customizer/customizer-config.php:264
+msgid "Logo Height (value 0 for auto height)"
+msgstr ""
+
+#: customizer/customizer-config.php:270
+msgid "Custom Logo Text"
+msgstr ""
+
+#: customizer/customizer-config.php:277
+msgid "Coming Soon Logo"
+msgstr ""
+
+#: customizer/customizer-config.php:287
+msgid "Sub Header Banner"
+msgstr ""
+
+#: customizer/customizer-config.php:288
+msgid "sub header banner"
+msgstr ""
+
+#: customizer/customizer-config.php:295
+msgid "Sub-Header Padding Top"
+msgstr ""
+
+#: customizer/customizer-config.php:302
+msgid "Sub-Header Padding Bottom"
+msgstr ""
+
+#: customizer/customizer-config.php:309
+msgid "Sub-Header Margin Bottom"
+msgstr ""
+
+#: customizer/customizer-config.php:316
+msgid "Sub-Header Background Image"
+msgstr ""
+
+#: customizer/customizer-config.php:322
+msgid "Title Settings"
+msgstr ""
+
+#: customizer/customizer-config.php:328
+msgid "Header Title Font Size"
+msgstr ""
+
+#: customizer/customizer-config.php:335
+msgid "Header Title Color"
+msgstr ""
+
+#: customizer/customizer-config.php:342 customizer/customizer-config.php:349
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: customizer/customizer-config.php:360 customizer/customizer-config.php:361
+msgid "Typography Setting"
+msgstr ""
+
+#: customizer/customizer-config.php:367
+msgid "Body Font Options"
+msgstr ""
+
+#: customizer/customizer-config.php:374
+msgid "Select Google Font"
+msgstr ""
+
+#: customizer/customizer-config.php:384
+msgid "Body Font Size"
+msgstr ""
+
+#: customizer/customizer-config.php:390
+msgid "Body Font Line Height"
+msgstr ""
+
+#: customizer/customizer-config.php:396
+msgid "Body Font Weight"
+msgstr ""
+
+#: customizer/customizer-config.php:415
+msgid "Body Font Color"
+msgstr ""
+
+#: customizer/customizer-config.php:422
+msgid "Menu Font Options"
+msgstr ""
+
+#: customizer/customizer-config.php:429
+msgid "Heading 1 Font Options"
+msgstr ""
+
+#: customizer/customizer-config.php:436 customizer/customizer-config.php:492
+#: customizer/customizer-config.php:548
+msgid "Google Font"
+msgstr ""
+
+#: customizer/customizer-config.php:446 customizer/customizer-config.php:502
+#: customizer/customizer-config.php:558
+msgid "Font Size"
+msgstr ""
+
+#: customizer/customizer-config.php:452 customizer/customizer-config.php:508
+#: customizer/customizer-config.php:564
+msgid "Font Line Height"
+msgstr ""
+
+#: customizer/customizer-config.php:458 customizer/customizer-config.php:514
+#: customizer/customizer-config.php:570
+msgid "Font Weight"
+msgstr ""
+
+#: customizer/customizer-config.php:485
+msgid "Heading 2 Font Options"
+msgstr ""
+
+#: customizer/customizer-config.php:541
+msgid "Heading 3 Font Options"
+msgstr ""
+
+#: customizer/customizer-config.php:591
+msgid "Heading 4 Font Options"
+msgstr ""
+
+#: customizer/customizer-config.php:598
+msgid "Heading4 Google Font"
+msgstr ""
+
+#: customizer/customizer-config.php:608
+msgid "Heading4 Font Size"
+msgstr ""
+
+#: customizer/customizer-config.php:614
+msgid "Heading4 Font Line Height"
+msgstr ""
+
+#: customizer/customizer-config.php:620
+msgid "Heading4 Font Weight"
+msgstr ""
+
+#: customizer/customizer-config.php:647
+msgid "Heading 5 Font Options"
+msgstr ""
+
+#: customizer/customizer-config.php:655
+msgid "Heading5 Google Font"
+msgstr ""
+
+#: customizer/customizer-config.php:665
+msgid "Heading5 Font Size"
+msgstr ""
+
+#: customizer/customizer-config.php:671
+msgid "Heading5 Font Line Height"
+msgstr ""
+
+#: customizer/customizer-config.php:677
+msgid "Heading5 Font Weight"
+msgstr ""
+
+#: customizer/customizer-config.php:701 customizer/customizer-config.php:702
+msgid "Layout & Styling"
+msgstr ""
+
+#: customizer/customizer-config.php:707
+msgid "Select BoxWidth of FullWidth"
+msgstr ""
+
+#: customizer/customizer-config.php:712
+msgid "BoxWidth"
+msgstr ""
+
+#: customizer/customizer-config.php:713
+msgid "FullWidth"
+msgstr ""
+
+#: customizer/customizer-config.php:718
+msgid "Body Background Color"
+msgstr ""
+
+#: customizer/customizer-config.php:726
+msgid "Body Background Image"
+msgstr ""
+
+#: customizer/customizer-config.php:732
+msgid "Body Background Attachment"
+msgstr ""
+
+#: customizer/customizer-config.php:737
+msgid "Scroll"
+msgstr ""
+
+#: customizer/customizer-config.php:738
+msgid "Fixed"
+msgstr ""
+
+#: customizer/customizer-config.php:739
+msgid "Inherit"
+msgstr ""
+
+#: customizer/customizer-config.php:744
+msgid "Body Background Repeat"
+msgstr ""
+
+#: customizer/customizer-config.php:749
+msgid "Repeat"
+msgstr ""
+
+#: customizer/customizer-config.php:750
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: customizer/customizer-config.php:751
+msgid "Repeat Vertically"
+msgstr ""
+
+#: customizer/customizer-config.php:752
+msgid "No Repeat"
+msgstr ""
+
+#: customizer/customizer-config.php:757
+msgid "Body Background Size"
+msgstr ""
+
+#: customizer/customizer-config.php:762
+msgid "Cover"
+msgstr ""
+
+#: customizer/customizer-config.php:763
+msgid "Contain"
+msgstr ""
+
+#: customizer/customizer-config.php:768
+msgid "Body Background Position"
+msgstr ""
+
+#: customizer/customizer-config.php:773
+msgid "left top"
+msgstr ""
+
+#: customizer/customizer-config.php:774
+msgid "left center"
+msgstr ""
+
+#: customizer/customizer-config.php:775
+msgid "left bottom"
+msgstr ""
+
+#: customizer/customizer-config.php:776
+msgid "right top"
+msgstr ""
+
+#: customizer/customizer-config.php:777
+msgid "right center"
+msgstr ""
+
+#: customizer/customizer-config.php:778
+msgid "right bottom"
+msgstr ""
+
+#: customizer/customizer-config.php:779
+msgid "center top"
+msgstr ""
+
+#: customizer/customizer-config.php:780
+msgid "center center"
+msgstr ""
+
+#: customizer/customizer-config.php:781
+msgid "center bottom"
+msgstr ""
+
+#: customizer/customizer-config.php:786
+msgid "Set Custom Color"
+msgstr ""
+
+#: customizer/customizer-config.php:793
+msgid "Major Color"
+msgstr ""
+
+#: customizer/customizer-config.php:800
+msgid "Hover Color"
+msgstr ""
+
+#: customizer/customizer-config.php:807
+msgid "Heading Color"
+msgstr ""
+
+#: customizer/customizer-config.php:814
+msgid "Text Color"
+msgstr ""
+
+#: customizer/customizer-config.php:827 customizer/customizer-config.php:828
+msgid "Social Media"
+msgstr ""
+
+#: customizer/customizer-config.php:834
+msgid "Add Facebook URL"
+msgstr ""
+
+#: customizer/customizer-config.php:841 customizer/customizer-config.php:974
+msgid "Add Twitter URL"
+msgstr ""
+
+#: customizer/customizer-config.php:848
+msgid "Add Goole Plus URL"
+msgstr ""
+
+#: customizer/customizer-config.php:855 customizer/customizer-config.php:988
+msgid "Add Pinterest URL"
+msgstr ""
+
+#: customizer/customizer-config.php:862 customizer/customizer-config.php:995
+msgid "Add Youtube URL"
+msgstr ""
+
+#: customizer/customizer-config.php:869 customizer/customizer-config.php:1002
+msgid "Add Linkedin URL"
+msgstr ""
+
+#: customizer/customizer-config.php:876
+msgid "Linkedin Username( For Share )"
+msgstr ""
+
+#: customizer/customizer-config.php:884 customizer/customizer-config.php:1016
+msgid "Add Instagram URL"
+msgstr ""
+
+#: customizer/customizer-config.php:891 customizer/customizer-config.php:1009
+msgid "Add Dribbble URL"
+msgstr ""
+
+#: customizer/customizer-config.php:898
+msgid "Add Behance URL"
+msgstr ""
+
+#: customizer/customizer-config.php:905
+msgid "Add Flickr URL"
+msgstr ""
+
+#: customizer/customizer-config.php:912
+msgid "Add Vk URL"
+msgstr ""
+
+#: customizer/customizer-config.php:919
+msgid "Add Skype URL"
+msgstr ""
+
+#: customizer/customizer-config.php:929 customizer/customizer-config.php:930
+#: customizer/customizer-config.php:948
+msgid "Coming Soon"
+msgstr ""
+
+#: customizer/customizer-config.php:937
+msgid "Enable Coming Soon"
+msgstr ""
+
+#: customizer/customizer-config.php:945
+msgid "Add Coming Soon Title"
+msgstr ""
+
+#: customizer/customizer-config.php:953
+msgid "Coming Soon date"
+msgstr ""
+
+#: customizer/customizer-config.php:960
+msgid "Add mailchimp Form Shortcode Here"
+msgstr ""
+
+#: customizer/customizer-config.php:967
+msgid "Coming Soon Description"
+msgstr ""
+
+#: customizer/customizer-config.php:970
+msgid "We are come back soon"
+msgstr ""
+
+#: customizer/customizer-config.php:981
+msgid "Add Google Plus URL"
+msgstr ""
+
+#: customizer/customizer-config.php:1025
+msgid "404 Page"
+msgstr ""
+
+#: customizer/customizer-config.php:1026
+msgid "404 page background and text settings"
+msgstr ""
+
+#: customizer/customizer-config.php:1032
+msgid "404 Page Title"
+msgstr ""
+
+#: customizer/customizer-config.php:1035
+msgid "The page doesn’t exist."
+msgstr ""
+
+#: customizer/customizer-config.php:1039
+msgid "404 Page Description"
+msgstr ""
+
+#: customizer/customizer-config.php:1046
+msgid "404 Button Text"
+msgstr ""
+
+#: customizer/customizer-config.php:1049
+msgid "Go Back"
+msgstr ""
+
+#: customizer/customizer-config.php:1056 customizer/customizer-config.php:1057
+msgid "Blog Setting"
+msgstr ""
+
+#: customizer/customizer-config.php:1062
+msgid "Select Blog Column"
+msgstr ""
+
+#: customizer/customizer-config.php:1075 customizer/customizer-config.php:1171
+msgid "Enable Blog Sidebar"
+msgstr ""
+
+#: customizer/customizer-config.php:1082 customizer/customizer-config.php:1178
+msgid "Enable Blog Date"
+msgstr ""
+
+#: customizer/customizer-config.php:1089 customizer/customizer-config.php:1185
+msgid "Enable Blog Author"
+msgstr ""
+
+#: customizer/customizer-config.php:1096 customizer/customizer-config.php:1192
+msgid "Enable Blog Category"
+msgstr ""
+
+#: customizer/customizer-config.php:1103 customizer/customizer-config.php:1199
+msgid "Enable Tags"
+msgstr ""
+
+#: customizer/customizer-config.php:1110 customizer/customizer-config.php:1206
+msgid "Enable Blog Hit Count"
+msgstr ""
+
+#: customizer/customizer-config.php:1117
+msgid "Enable Intro Text"
+msgstr ""
+
+#: customizer/customizer-config.php:1124
+msgid "Enable Blog Readmore"
+msgstr ""
+
+#: customizer/customizer-config.php:1138 customizer/customizer-config.php:1213
+msgid "Enable Comment"
+msgstr ""
+
+#: customizer/customizer-config.php:1145
+msgid "Post character Limit"
+msgstr ""
+
+#: customizer/customizer-config.php:1152
+msgid "Continue Reading"
+msgstr ""
+
+#: customizer/customizer-config.php:1164 customizer/customizer-config.php:1165
+msgid "Blog Single Page Setting"
+msgstr ""
+
+#: customizer/customizer-config.php:1220
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: customizer/customizer-config.php:1234 customizer/customizer-config.php:1235
+msgid "Widget Area Setting"
+msgstr ""
+
+#: customizer/customizer-config.php:1240
+msgid "Enable Bottom Area"
+msgstr ""
+
+#: customizer/customizer-config.php:1247
+msgid "Select Bottom Column"
+msgstr ""
+
+#: customizer/customizer-config.php:1260
+msgid "Bottom background Color"
+msgstr ""
+
+#: customizer/customizer-config.php:1267
+msgid "Bottom Text Color"
+msgstr ""
+
+#: customizer/customizer-config.php:1274
+msgid "Bottom Link Color"
+msgstr ""
+
+#: customizer/customizer-config.php:1281
+msgid "Bottom link hover color"
+msgstr ""
+
+#: customizer/customizer-config.php:1288
+msgid "Bottom Top Padding"
+msgstr ""
+
+#: customizer/customizer-config.php:1295
+msgid "Bottom Padding Bottom"
+msgstr ""
+
+#: customizer/customizer-config.php:1304 customizer/customizer-config.php:1305
+msgid "Footer Setting"
+msgstr ""
+
+#: customizer/customizer-config.php:1310
+msgid "Enable Footer"
+msgstr ""
+
+#: customizer/customizer-config.php:1317
+msgid "Enable copyright text"
+msgstr ""
+
+#: customizer/customizer-config.php:1324
+msgid "Enable Footer Menu"
+msgstr ""
+
+#: customizer/customizer-config.php:1331
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer/customizer-config.php:1334
+msgid "© 2017 Edumax. All Rights Reserved."
+msgstr ""
+
+#: customizer/customizer-config.php:1338
+msgid "Footer Text Color"
+msgstr ""
+
+#: customizer/customizer-config.php:1345
+msgid "Footer Link Color"
+msgstr ""
+
+#: customizer/customizer-config.php:1352
+msgid "Footer link hover color"
+msgstr ""
+
+#: customizer/customizer-config.php:1359
+msgid "Footer background color"
+msgstr ""
+
+#: customizer/customizer-config.php:1366
+msgid "Footer Top Padding"
+msgstr ""
+
+#: customizer/customizer-config.php:1373
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: customizer/customizer.php:81
+msgid ""
+"Success! Your theme data successfully imported. Page will be reloaded within "
+"2 sec."
+msgstr ""
+
+#: customizer/customizer.php:82
+msgid "Error! Your theme data importing failed."
+msgstr ""
+
+#: customizer/customizer.php:83
+msgid "Error! Please upload a file."
+msgstr ""
+
+#: customizer/customizer.php:243
+msgid "Import/Export"
+msgstr ""
+
+#: customizer/customizer.php:244
+msgid "Import Export Option Data"
+msgstr ""
+
+#: edumax-core.php:77
+msgid "All Category"
+msgstr ""
+
+#: lib/login-modal.php:10
+msgid "Sign In"
+msgstr ""
+
+#: lib/login-modal.php:17
+msgid "Remember Me"
+msgstr ""
+
+#: lib/login-modal.php:19
+msgid "Login Now"
+msgstr ""
+
+#: lib/login-modal.php:35
+msgid ""
+"If you don’t already have an account click the button below to create your "
+"account."
+msgstr ""
+
+#: lib/login-modal.php:36
+msgid "Create New Account"
+msgstr ""
+
+#: lib/login-modal.php:38
+msgid "OR"
+msgstr ""
+
+#: lib/login-modal.php:43
+msgid "Login with Google"
+msgstr ""
+
+#: lib/login-modal.php:46
+msgid "Login with Facebook"
+msgstr ""
+
+#: lib/login-modal.php:50
+msgid "Login with Twitter"
+msgstr ""
+
+#: lib/login-modal.php:58
+#, php-format
+msgid ""
+"So you can’t get in to your account? Did you %s forget your password? %s"
+msgstr ""
+
+#: lib/login-modal.php:66 lib/login-modal.php:81
+msgid "Registration"
+msgstr ""
+
+#: lib/login-modal.php:89
+#, php-format
+msgid "Already have an account? %s Sign In %s"
+msgstr ""
+
+#: lib/login/wordpress/wordpress.php:12
+msgid "Wrong username or password."
+msgstr ""
+
+#: lib/login/wordpress/wordpress.php:14
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: post-type/meta-box/inc/core.php:33
+msgid "Documentation"
+msgstr ""
+
+#: post-type/meta-box/inc/core.php:34
+msgid "Extensions"
+msgstr ""
+
+#: post-type/meta-box/inc/field.php:343
+msgid "+ Add more"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/autocomplete.php:20
+#: post-type/meta-box/inc/fields/autocomplete.php:81
+#: post-type/meta-box/inc/fields/autocomplete.php:93
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/button.php:32
+msgid "Click me"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:50
+msgid "Yes"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:50
+msgid "No"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:19
+msgid "Select File"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:38
+#: post-type/meta-box/inc/fields/select.php:87
+msgid "Select"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:40
+msgid "Remove"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:21
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:23
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:79
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:93
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:143
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:144
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:126
+msgid "Key"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/key-value.php:127
+msgid "Value"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/map.php:62
+msgid "Find Address"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:24
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:25
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:26
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:33
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:34
+msgctxt "media"
+msgid "or"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:35
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:64
+msgid "Embed HTML not available."
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:79
+msgid "Preview"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:36
+msgid "Select a post"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:41
+#: post-type/meta-box/inc/fields/taxonomy.php:52
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select-advanced.php:46
+msgid "Select an item"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:87
+msgid "All"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:87
+msgid "None"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/thickbox-image.php:55
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/user.php:30
+msgid "Select an user"
+msgstr ""
+
+#: post-type/meta-box/inc/validation.php:47
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: post-type/meta_box.php:55
+msgid "Post Quote Settings"
+msgstr ""
+
+#: post-type/meta_box.php:73
+msgid "Quote Text"
+msgstr ""
+
+#: post-type/meta_box.php:76
+msgid "Write Your Quote Here"
+msgstr ""
+
+#: post-type/meta_box.php:83
+msgid "Quote Author"
+msgstr ""
+
+#: post-type/meta_box.php:86
+msgid "Write Quote Author or Source"
+msgstr ""
+
+#: post-type/meta_box.php:101
+msgid "Post Link Settings"
+msgstr ""
+
+#: post-type/meta_box.php:119
+msgid "Link URL"
+msgstr ""
+
+#: post-type/meta_box.php:122
+msgid "Write Your Link"
+msgstr ""
+
+#: post-type/meta_box.php:136
+msgid "Page Settings"
+msgstr ""
+
+#: post-type/meta_box.php:142
+msgid "Upload Sub Title Banner Image"
+msgstr ""
+
+#: post-type/meta_box.php:149
+msgid "Sub Title BG Color"
+msgstr ""
+
+#: post-type/meta_box.php:156
+msgid "Sub Title Gradient Color"
+msgstr ""
+
+#: post-type/meta_box.php:163
+msgid "Sub title"
+msgstr ""
+
+#: post-type/meta_box.php:165
+msgid "Sub Title"
+msgstr ""
+
+#: post-type/meta_box.php:178
+msgid "Post Audio Settings"
+msgstr ""
+
+#: post-type/meta_box.php:185
+msgid "Audio Embed Code"
+msgstr ""
+
+#: post-type/meta_box.php:187
+msgid "Write Your Audio Embed Code Here"
+msgstr ""
+
+#: post-type/meta_box.php:197
+msgid "Post Video Settings"
+msgstr ""
+
+#: post-type/meta_box.php:205
+msgid "Video Embed Code/ID"
+msgstr ""
+
+#: post-type/meta_box.php:208
+msgid "Write Your Vedio Embed Code/ID Here"
+msgstr ""
+
+#: post-type/meta_box.php:214
+msgid "Video Durations"
+msgstr ""
+
+#: post-type/meta_box.php:220
+msgid "Select Vedio Type/Source"
+msgstr ""
+
+#: post-type/meta_box.php:225
+msgid "Embed Code"
+msgstr ""
+
+#: post-type/meta_box.php:226
+msgid "YouTube"
+msgstr ""
+
+#: post-type/meta_box.php:227
+msgid "Vimeo"
+msgstr ""
+
+#: post-type/meta_box.php:242
+msgid "Post Gallery Settings"
+msgstr ""
+
+#: post-type/meta_box.php:259
+msgid "Gallery Image Upload"
+msgstr ""
+
+#: post-type/meta_box.php:271
+msgid "Blog Single Page Media Settings"
+msgstr ""
+
+#: post-type/meta_box.php:278
+msgid "Single Blog Content Settings"
+msgstr ""
+
+#: post-type/meta_box.php:283
+msgid "Only Feature Image"
+msgstr ""
+
+#: post-type/meta_box.php:284
+msgid "Only Format Option"
+msgstr ""
+
+#: post-type/meta_box.php:285
+msgid "Feature Image and Format Option"
+msgstr ""
+
+#: post-type/meta_box.php:299
+msgid "Is this post featured?"
+msgstr ""
+
+#: shortcode/search.php:5
+msgid "Search Course"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:22
+msgid "Button Text"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:23
+msgid "Text Placeholder"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:28
+msgid "Button Link"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:38 thm-wppb/thm-buttons.php:44
+msgid "Button css class"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:39 thm-wppb/thm-buttons.php:45
+msgid "classname"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:50 thm-wppb/thm-buttons.php:59
+msgid "Button Style"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:68
+msgid "Alignment Field"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:91
+msgid " "
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:92
+msgid "_blank"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:92
+msgid "_self"
+msgstr ""
+
+#: thm-wppb/thm-buttons.php:93
+msgid "rel=\"nofollow\""
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:33
+msgid "Category Column"
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:34
+msgid "Select Post Column"
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:46
+msgid "Select Category"
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:47
+msgid "Select Placeholder"
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:53
+msgid "Category Per Page"
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:63
+msgid "Pagination"
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:119
+msgid " Courses"
+msgstr ""
+
+#: thm-wppb/thm-course-category.php:122
+msgid "View Category"
+msgstr ""
+
+#: thm-wppb/thm-course-new.php:39
+msgid "Select category"
+msgstr ""
+
+#: thm-wppb/thm-searchform.php:23
+msgid "Search Placeholder text"
+msgstr ""
+
+#: thm-wppb/thm-searchform.php:24 thm-wppb/thm-searchform.php:25
+msgid "Search here"
+msgstr ""
+
+#: thm-wppb/thm-searchform.php:34
+msgid "Search here..."
+msgstr ""
+
+#: thm-wppb/thm-timeline.php:26
+msgid "Tab Name"
+msgstr ""
+
+#: thm-wppb/thm-timeline.php:27
+msgid "Name here..."
+msgstr ""
+
+#: thm-wppb/thm-timeline.php:32
+msgid "Icon Field"
+msgstr ""
+
+#: thm-wppb/thm-timeline.php:37
+msgid "Media Title"
+msgstr ""
+
+#: thm-wppb/thm-timeline.php:42
+msgid "Heading"
+msgstr ""
+
+#: thm-wppb/thm-timeline.php:47
+msgid "Content"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Edumax Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.themeum.com/item/core"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Edumax Core is a required plugin for this theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themeum"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.themeum.com"
+msgstr ""

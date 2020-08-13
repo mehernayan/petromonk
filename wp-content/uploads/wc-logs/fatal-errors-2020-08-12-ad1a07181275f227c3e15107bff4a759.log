@@ -1,0 +1,260 @@
+2020-08-12T18:32:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:32:35+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:32:55+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:33:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:33:35+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:33:55+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:33:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:34:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:34:29+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:34:32+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:34:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:34:45+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:35:06+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:35:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:35:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:35:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:35:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:41:29+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:41:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
+2020-08-12T18:42:08+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php:110
+Stack trace:
+#0 /home/petromo/public_html/lms/wp-content/themes/edumax/header.php(144): edumax_header_cart()
+#1 /home/petromo/public_html/lms/wp-includes/template.php(730): require_once('/home/petromo/p...')
+#2 /home/petromo/public_html/lms/wp-includes/template.php(676): load_template('/home/petromo/p...', true, Array)
+#3 /home/petromo/public_html/lms/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/petromo/public_html/lms/wp-content/themes/edumax/404.php(1): get_header()
+#5 /home/petromo/public_html/lms/wp-includes/template-loader.php(106): include('/home/petromo/p...')
+#6 /home/petromo/public_html/lms/wp-blog-header.php(19): require_once('/home/petromo/p...')
+#7 /home/petromo/public_html/lms/index.php(17): require('/home/petromo/p...')
+#8 {main}
+  thrown in /home/petromo/public_html/lms/wp-content/themes/edumax/functions.php on line 110
+
